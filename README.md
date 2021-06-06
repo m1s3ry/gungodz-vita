@@ -7,7 +7,7 @@ Patch to make GUN GODZ playable on PS Vita
 This patch does not contain any game files from INK. **You need the game files from your legally owned copy**.
 If you don't have a copy of the game, you can get it from free [HERE](https://store.steampowered.com/app/522940/GUN_GODZ/)
 
-It **WILL NOT WORK* with a pirated copy of the game due to hash check.
+It **WILL NOT WORK** with a pirated copy of the game due to hash check.
 
 ## Instructions (Read them carefully)
 1. Download the VPK and install it on your hacked PS Vita
