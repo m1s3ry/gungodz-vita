@@ -4,7 +4,7 @@ Patch to make GUN GODZ playable on PS Vita
 ###
 
 ## Disclaimer
-This patch does not contain any game files from INK. **You need the game files from your legally owned copy**.
+This patch does not contain any game files from GUN GODZ. **You need the game files from your legally owned copy**.
 If you don't have a copy of the game, you can get it from free [HERE](https://store.steampowered.com/app/522940/GUN_GODZ/)
 
 ## Instructions (Read them carefully)
