@@ -18,6 +18,7 @@ If you don't have a copy of the game, you can get it from free [HERE](https://st
 
 ## Credits
 Credits for the original game go to Vlambeer
+@brandonheat8 for making bubble and livearea art
 Additional credit for the port goes to @Grossleymoo for UTMT and helping/teaching me to port Vita games.
 
 ## Donations
